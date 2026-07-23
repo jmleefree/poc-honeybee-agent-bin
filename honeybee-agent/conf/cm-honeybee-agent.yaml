@@ -1,0 +1,3 @@
+cm-honeybee-agent:
+    listen:
+        port: 8082
